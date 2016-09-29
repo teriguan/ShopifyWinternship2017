@@ -37,7 +37,7 @@ var addTimepiece = function (items) {
 }
 
 /**
-* Tallies up cart items and prints a list of the items and the total amount before taxes and shipping
+* Tallies up cart items and prints a table of the items and the total amount before taxes and shipping
 * on to the web page.
 */
 var checkout = function (basket) {
